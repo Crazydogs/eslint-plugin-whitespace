@@ -1,5 +1,5 @@
 {
-  "name": "@tencent/eslint-plugin-whitespace",
+  "name": "eslint-plugin-whitespace",
   "version": "1.0.0",
   "description": "Add whitespace between Chinese and other text",
   "keywords": [
